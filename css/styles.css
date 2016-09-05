@@ -70,12 +70,12 @@ body {
 
 }
 
-/*Fix for NAME padding from top to balance with logo*/
+/*Fix for NAME padding from top to balance with logo.*/
 h1 {
 	margin-top: 50px;
 }
 
-
+/*Fix for typed.js padding from bottom to balance with bottom assets.*/
 .wrap {
 	margin-bottom: 20px;
 }
